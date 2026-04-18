@@ -1,0 +1,11 @@
+coarse="python"
+print(len(coarse))
+print(coarse[0])
+print(coarse[-1])
+print(coarse[-2])
+print(coarse[0:3])
+print(coarse[0:])
+print(coarse[:3])
+print(coarse[2:4])
+print(coarse[3:9])
+print(coarse[:])
